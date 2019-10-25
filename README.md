@@ -1,2 +1,3 @@
-# nydh2019
-A repo for the Git/GitHub workshop at NYDH 2019
+# The Official NYDH GitHub Sandbox
+
+We're glad you've come here to play!
