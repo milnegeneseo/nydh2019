@@ -1,6 +1,5 @@
-# Alessandra Otero, Arts and Humanities Librarian 
-- Saludos
-- Hola 
+# Arts and Humanities Librarian 
+- Hi, I'm Alessandra Otero. I'm the research instructor librarian at SUNY Geneseo. 
+- I'm also the liaison librarian to Arts and Humanities
 
-*lalalalala
-**estoy codificando
+Right no I am learning about **GitHub.
