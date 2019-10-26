@@ -1,3 +1,5 @@
+accessible version of presentation: [http://cuny.is/mkgold-nydh2019](http://cuny.is/mkgold-nydh2019)
+
 ## 1. Critical Infrastructural Studies and DH
   - "the study of boring things"; Infrastructure becomes visible when it breaks.
   - [cistudies.org](https://cistudies.org)
